@@ -1,0 +1,78 @@
+.products{
+    width: 2024px;
+    height: 908px;
+    position: relative;
+    right:9px;
+    top:5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.products_list{
+    width:357.6px;
+    height:730px;
+    position: relative;
+    top:141px;
+    display:flex;
+    flex-direction:column;
+}
+.product_img{
+    width:357px;
+    height:282px;
+}
+.products_header{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 400;
+line-height: 35.16px;
+text-align: left;
+color: rgba(102, 102, 102, 1);
+position:relative;
+top:7.5px;
+}
+.products_underheader{
+    font-family: Roboto;
+font-size: 19px;
+font-weight: 400;
+line-height: 16.41px;
+text-align: left;
+color:rgba(181, 181, 189, 1);
+position:relative;
+bottom:9px;
+}
+.products_text{
+    font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.6px;
+text-align: left;
+color: rgba(133, 133, 155, 1);
+position: relative;
+bottom:21.5px;
+}
+.link{
+    font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 23.44px;
+text-align: left;
+color:rgba(120, 117, 254, 1);
+position: relative;
+bottom:11px;
+}
+.product_1{
+    position: relative;
+    left:158px;
+}
+.product_4{
+    position: relative;
+    right:178px;
+}
+.product_2{
+    position: relative;
+    left:48px;
+}
+.product_3{
+    position: relative;
+    right:63px;
+}

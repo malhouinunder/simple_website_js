@@ -1,0 +1,70 @@
+.contact{
+    height: 276px;
+    width: 2026px;
+    border-top: 1px solid rgba(192, 192, 192, 1);
+    border-bottom: 1px solid rgba(192, 192, 192, 1);
+    position: relative;
+    right:8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.aux_questions{
+    font-family: Roboto;
+font-size: 40px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+color: rgba(76, 88, 102, 1);
+position: relative;
+bottom: 25px;
+}
+.input{
+    position: relative;
+    bottom: 75px;
+    left:2px;
+}
+.con_inf{
+    position: relative;
+    bottom:65px;
+    width: 400px;
+}
+.info{
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+color: rgba(76, 88, 102, 1);
+}
+.inp1{
+    width: 300px;
+    position: relative;
+    left: 28px;
+}
+.inp1:invalid{
+    border:3px solid blue;
+}
+.inp2{
+    width:300px;
+    position: relative;
+    left: 14px;
+}
+.inp2:invalid{
+    border:3px solid blue;
+}
+.div_new{
+    border: 1px solid black;
+    width:200px;
+    height:100px;
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+}
+.but_close{
+    width:20px;
+    height:20px;
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+}

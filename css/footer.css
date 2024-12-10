@@ -1,0 +1,41 @@
+.footer{
+    border: 1px solid black;
+    width:2025px;
+    height: 125px;
+    position: relative;
+    right: 10px;
+    background-color: rgba(76, 88, 102, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    width: 196px;
+    height: 34px;
+    scale: 150%;
+    position: relative;
+    left:277px;
+    top:54px;
+}
+.social_media{
+    position: relative;
+    top:67px;
+    right: 100px;
+    scale:130%;
+}
+.f1{
+    position: relative;
+    right:225px;
+}
+.f2{
+    position: relative;
+    right:190px;
+}
+.f3{
+    position: relative;
+    right:155px;
+}
+.f4{
+    position: relative;
+    right:120px;
+}

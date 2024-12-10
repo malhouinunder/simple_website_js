@@ -1,0 +1,75 @@
+.sketchbook{
+    height:784px;
+    width:2023px;
+    position:relative;
+    right:8px;
+}
+.buy_page{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.buy_text{
+    width:491px;
+    height:427px;
+    position: relative;
+    left:103px;
+    top:70px;
+}
+.sketchbook_header{
+    font-family: Roboto;
+font-size: 55px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+color: rgba(102, 102, 102, 1);
+width:419px;
+height:63px;
+position: relative;
+bottom:46px;
+}
+.sketchbook_text{
+    font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.6px;
+text-align: left;
+color: rgba(133, 133, 155, 1);
+width:491px;
+height:130px;
+position: relative;
+bottom:80px;
+}
+.buy_button{
+    height:110px;
+    width: 357px;
+    border: 1px solid rgba(120, 117, 254, 1);
+    display:flex;
+flex-direction: column;
+align-items: center;
+position: relative;
+bottom:58px;
+}
+.link_buy{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 400;
+line-height: 23.44px;
+text-align: left;
+color:rgba(120, 117, 254, 1);
+position: relative;
+top:40px;
+bottom:58px;
+}
+.buy_img{
+    height:643px;
+    width: 1023px;
+    position: relative;
+    top:141px;
+    right:124px;
+}
+.buy_img1{
+    height:643px;
+    width:1023px;
+}

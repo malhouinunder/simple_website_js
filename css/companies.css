@@ -1,0 +1,30 @@
+.companies{
+    height:494.5px;
+    width:2024px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    right:8px;
+}
+.img_comp{
+    height:212px;
+    width:357px;
+}
+.im1{
+    position: relative;
+    left:158px;
+}
+.im2{
+    position: relative;
+    left:48px;
+}
+.im3{
+    position: relative;
+    right:66px;
+}
+.im4{
+    position: relative;
+    right:178px;
+}
